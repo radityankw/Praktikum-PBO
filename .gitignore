@@ -1,0 +1,16 @@
+# Mengabaikan file kelas Java yang dikompilasi
+*.class
+
+# Mengabaikan folder bin atau out (hasil kompilasi)
+bin/
+out/
+
+# Mengabaikan file yang dibuat oleh IDE seperti VS Code, IntelliJ IDEA, dan Eclipse
+.vscode/
+.idea/
+*.iml
+*.log
+
+# Mengabaikan file sementara sistem
+.DS_Store
+Thumbs.db
