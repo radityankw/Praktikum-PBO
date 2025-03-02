@@ -1,6 +1,7 @@
 /* Nama File : MDosenKendaraanMatKul.java
  * Deskripsi : main class untuk class Dosen, Kendaraan, dan MataKuliah
  * Pembuat   : Radityantari Kusuma Wardani
+ * NIM       : 24060123130059
  * Tanggal   : 2 Maret 2025
  */
 
