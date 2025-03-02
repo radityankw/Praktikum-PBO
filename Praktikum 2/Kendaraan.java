@@ -1,6 +1,7 @@
 /* Nama File : Kendaraan.java
  * Deskripsi : berisi atribut dan method dalam class Kendaraan
  * Pembuat   : Radityantari Kusuma Wardani
+ * NIM       : 24060123130059
  * Tanggal   : 27 Februari 2025
  */
 
