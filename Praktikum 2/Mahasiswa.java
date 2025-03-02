@@ -1,6 +1,7 @@
 /* Nama File : Mahasiswa.java
  * Deskripsi : berisi atribut dan method dalam class Mahasiswa
  * Pembuat   : Radityantari Kusuma Wardani
+ * NIM       : 24060123130059
  * Tanggal   : 27 Februari 2025
  */
 
