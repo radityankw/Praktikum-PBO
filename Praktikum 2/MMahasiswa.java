@@ -1,6 +1,7 @@
 /* Nama File : MMahasiswa.java
  * Deskripsi : main class untuk class MMahasiswa
  * Pembuat   : Radityantari Kusuma Wardani
+ * NIM       : 24060123130059
  * Tanggal   : 2 Maret 2025
  */
 
