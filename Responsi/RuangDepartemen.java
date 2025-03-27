@@ -1,3 +1,5 @@
+// Nama : Radityantari Kusuma Wardani
+// NIM  : 24060123130059
 public class RuangDepartemen extends Ruang {
     private int jmlMeja;
     private int jmlKursi;
