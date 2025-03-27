@@ -1,3 +1,5 @@
+// Nama : Radityantari Kusuma Wardani
+// NIM  : 24060123130059
 public abstract class Ruang {
     protected String kode;
     protected double panjang;
